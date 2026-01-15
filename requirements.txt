@@ -1,0 +1,17 @@
+# Core LangChain stack
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# New Ollama and Chroma integrations
+langchain-ollama>=0.1.0
+langchain-chroma>=0.1.0
+
+# Vector database
+chromadb>=0.5.0
+
+# Document loading
+pypdf>=4.0.0
+
+# Utilities
+tqdm>=4.66.0
